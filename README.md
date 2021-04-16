@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hameed Syed
 - 👀 I’m interested in Programming and technology development
-- 🌱 I’m currently learning AL and ML
+- 🌱 I’m currently learning AI and ML
 - 📫 How to reach me sdhameed03@gmail.com
 
 <!---
